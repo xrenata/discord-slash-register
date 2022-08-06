@@ -1,0 +1,12 @@
+{
+    "owner": "937316083533230110",
+        "client": {
+        "TOKEN": "",
+        "ID": ""
+    },
+    "handlers": {
+        "slash": {
+            "GuildID": ""
+        }
+    }
+}
